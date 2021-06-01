@@ -98,6 +98,10 @@ header a{
     max-width: 600px;
 }
 
+.s3 h1{
+    color: #000;
+}
+
 .s3 .box{
     max-width: 600px;
     overflow: hidden;
